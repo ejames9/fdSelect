@@ -1,0 +1,11 @@
+# Swiftlint configuration file...
+
+disabled_rules:
+  - vertical_whitespace
+  - return_arrow_whitespace
+  - trailing_newline
+  - trailing_whitespace
+  - large_tuple
+  - identifier_name
+included:
+  - Source
