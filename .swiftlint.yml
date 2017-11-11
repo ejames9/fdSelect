@@ -7,5 +7,7 @@ disabled_rules:
   - trailing_whitespace
   - large_tuple
   - identifier_name
+  - todo
+  - cyclomatic_complexity
 included:
   - Source
